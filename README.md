@@ -25,3 +25,7 @@ A critical part of this task is visualizing the trained Decision Tree. Visualiza
 Finally, a brief analysis of the results is included. The analysis highlights the accuracy of the model, the effectiveness of using a Decision Tree for this dataset, and observations about how features contribute to classification. It also provides an understanding of the strengths and limitations of Decision Trees, such as their susceptibility to overfitting if the tree grows too deep, and the need for careful parameter tuning.
 
 Deliverable: The complete task is submitted as a Jupyter Notebook (.ipynb), containing all code, outputs, tree visualizations, and the analysis. This notebook demonstrates both the practical implementation of a machine learning model and the ability to present results clearly and effectively. Completing this task helps students develop essential skills in Python programming, machine learning model building, evaluation, and visualization, which are valuable for academic and professional projects".
+
+
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f4d13ff3-f7cd-43cf-af58-4a142dbcbd6e" />
