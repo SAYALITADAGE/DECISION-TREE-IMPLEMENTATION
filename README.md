@@ -28,5 +28,5 @@ Deliverable: The complete task is submitted as a Jupyter Notebook (.ipynb), cont
 
 
 *OUTPUT*:
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f4d13ff3-f7cd-43cf-af58-4a142dbcbd6e" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0e96d9d2-09fd-4c65-8a1c-66bd2dc2dc46" />
+<img width="1899" height="732" alt="Image" src="https://github.com/user-attachments/assets/a59e7a78-4a97-4841-b819-56fd47ca2d60" />
+
