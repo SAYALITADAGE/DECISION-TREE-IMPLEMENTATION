@@ -30,7 +30,7 @@ Deliverable: The complete task is submitted as a Jupyter Notebook (.ipynb), cont
 *OUTPUT*:
 <img width="1899" height="732" alt="Image" src="https://github.com/user-attachments/assets/a59e7a78-4a97-4841-b819-56fd47ca2d60" />
 
-<img width="1920" height="855" alt="Image" src="https://github.com/user-attachments/assets/e720fccd-0828-4026-964a-866c499ff6be" />
+<img width="1920" height="1028" alt="Image" src="https://github.com/user-attachments/assets/a30ca63e-f782-4efb-9685-9c69a0140d1e" />
 
 
 
